@@ -1,2 +1,2 @@
-# virtualpet3
-This is my virtual pet game, part 3. 
+# Virtual-pet-3
+https://cheshta-kabra.github.io/C-36-Project/
